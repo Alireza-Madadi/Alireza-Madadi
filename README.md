@@ -1,6 +1,6 @@
 # Hi, I'm Alireza Madadi 👋
 
-I am an **Aspiring AI & Machine Learning Engineer** with a foundation in Python and Django development.
+I am an **AI Developer** with a foundation in Python and Django development.
 
 My focus is on learning to build intelligent and accessible systems.
 
